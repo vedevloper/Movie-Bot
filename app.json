@@ -19,15 +19,15 @@
     "repository": "https://github.com/kdbotz/Lucifer",
     "env": {
         "BOT_TOKEN": {
-            "description": "Your bot token.",
+            "description": "7291790888:AAEeP96lfeVVCVo5nZw4PKCKfXWssbTIcxQ",
             "required": true
         },
         "API_ID": {
-            "description": "Get this value from https://my.telegram.org",
+            "description": "21723836",
             "required": true
         },
         "API_HASH": {
-            "description": "Get this value from https://my.telegram.org",
+            "description",
             "required": true
         },
         "CHANNELS": {
