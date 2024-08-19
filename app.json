@@ -31,11 +31,11 @@
             "required": true
         },
         "CHANNELS": {
-            "description": "-1002085214143 -1002221057263 -1002150209155",
+            "description": "",
             "required": false
         },
         "SUPPORT_GROUP": {
-            "description": "-1002085214143",
+            "description": "-1002174840368",
             "required": true
         },
         "RQST_LOG_CHANNEL": {
@@ -55,7 +55,7 @@
             "required": true
         },
         "PICS": {
-            "description": "Add some telegraph link of pictures .",
+            "description": "https://telegra.ph/file/24cc4f8ed34de04091eaf.png https://telegra.ph/file/117a7c8244bc900bbf9b4.png https://telegra.ph/file/f93763ffc3224a5404399.jpg https://telegra.ph/file/19913aab1b734375b7bef.png",
             "required": false
         },
         "LOG_CHANNEL": {
@@ -67,15 +67,15 @@
             "required": false
         },
         "AUTH_CHANNEL": {
-            "description": "-1002216103168",
+            "description": "-1002085214143",
             "required": false
         },
         "DATABASE_URI": {
-            "description": "mongodb+srv://vedevloper:Hiteshwar@cluster0.wr5fg.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
+            "description": "mongodb+srv://Dipanshu_021:ad8920@cluster0.f7migc1.mongodb.net/?retryWrites=true&w=majority",
             "required": true
         },
         "DATABASE_NAME": {
-            "description": "Cluster0",
+            "description": "Cynitev5Bot",
             "required": false
         },
         "COLLECTION_NAME": {
